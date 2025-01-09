@@ -1,0 +1,3 @@
+The 24.11.2023 at 14:43:10,83 Norlex 1.2 crashed because the error 0x01100 is occuring. 
+The 24.11.2023 at 14:43:26,01 Norlex 1.1 crashed because the error 0x02100 is occuring. 
+The 25.11.2023 at 11:06:01,71 Norlex 1.1 crashed because the error 0x02100 is occuring. 
